@@ -1,4 +1,5 @@
-A Flutter template for Google Firestore authentication..
+A Flutter template for user authentication using email and password using Google Firestore.
+<hr></hr>
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
